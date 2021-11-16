@@ -1,0 +1,16 @@
+{
+    "Bot_Info": {
+        "token": "ODM5NDgyNjA1MjE2NTk1OTc5.YJKTGQ.ykbBqityfjJtQCDeW60s5mm-PKo",
+        "prefix": "-"
+    },
+   "Embed_Defaults": {
+       "EmbedColour": "RANDOM"
+   },
+   "Giveaway_Options": {
+    "giveawayManagerID": "891331407476060171",
+    "giveawayRoleID": "",
+    "giveawayMention": true,
+    "showMention": true,
+    "hostedBy": true
+    }
+}
